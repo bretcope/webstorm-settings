@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Type Doc Comment">
+      <action id="EditorLineEnd" />
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <typing text-keycode="111:0;106:0;106:0;32:0;50:1;84:0;89:0;80:0;69:0;32:0;91:1;93:1;32:0;106:0;111:0">/**&amp;#x20;@type&amp;#x20;{}&amp;#x20;*/</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+    </macro>
+    <macro name="Doc Member Comment">
+      <action id="EditorLineEnd" />
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <typing text-keycode="111:0;106:0;106:0;32:0;50:1;77:0;69:0;77:0;66:0;69:0;82:0;32:0;91:1;93:1;32:0;106:0;111:0">/**&amp;#x20;@member&amp;#x20;{}&amp;#x20;*/</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+    </macro>
+    <macro name="console.log">
+      <typing text-keycode="67:0;79:0;78:0;83:0;79:0;76:0;69:0;46:0;76:0;79:0;71:0;57:1;48:1;59:0">console.log();</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+    </macro>
+  </component>
+</application>
+
