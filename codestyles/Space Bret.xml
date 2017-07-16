@@ -1,5 +1,6 @@
 <code_scheme name="Space Bret">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="160" />
   <CssCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
