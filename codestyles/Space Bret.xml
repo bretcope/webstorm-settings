@@ -6,7 +6,11 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="REFORMAT_C_STYLE_COMMENTS" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
